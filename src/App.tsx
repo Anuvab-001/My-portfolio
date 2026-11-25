@@ -7,7 +7,7 @@ import { CloudJourneySection } from './components/CloudJourneySection';
 import { ContactSection } from './components/ContactSection';
 import { Footer } from './components/Footer';
 import { EducationSection } from './components/EducationSection';
-
+import { PersonalInterestsSection } from './components/PersonalInterestsSection';
 export default function App() {
   return (
     <div className="min-h-screen bg-[#090D16] text-slate-100">
@@ -27,6 +27,7 @@ export default function App() {
         <SkillsSection />
         <ProjectsSection />
         <CloudJourneySection />
+         <PersonalInterestsSection />
         <ContactSection />
       </main>
 
