@@ -1,4 +1,4 @@
-import defaultProfilePlaceholder from '../assets/images/profile_placeholder_1795605538205.jpg';
+import defaultProfilePlaceholder from "../assets/images/anuvab-profile.png";
 
 export interface SkillItem {
   name: string;
