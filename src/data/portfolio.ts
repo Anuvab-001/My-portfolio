@@ -37,7 +37,7 @@ export const PORTFOLIO_PROFILE = {
   university: 'Daffodil International University (DIU), Bangladesh',
   department: 'Computer Science and Engineering (CSE)',
   heroIntro:
-    'I am a Computer Science and Engineering student building foundational skills in C, Java, data structures, and algorithms while preparing for a career in Cloud Engineering and distributed systems.',
+    'I am a Computer Science and Engineering student building foundational skills in C, Java,Python, data structures, and algorithms while preparing for a career in Cloud Engineering and distributed systems.',
   placeholderImage: defaultProfilePlaceholder,
   recommendedAssetPath: 'src/assets/images/anuvab-profile.jpg',
   aboutParagraphs: [
