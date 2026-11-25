@@ -45,7 +45,7 @@ export const PORTFOLIO_PROFILE = {
     'I am particularly interested in Cloud Engineering, Networking, and Infrastructure. I want to develop practical technical skills and gradually build the knowledge required to work with real-world cloud systems.',
   ],
   contact: {
-    email: 'anuvab.email@example.com',
+    email: 'anuvabbhadra2005@gmail.com',
     emailIsPlaceholder: true,
     githubUrl: 'https://github.com/anuvab-001',
     githubLabel: 'github.com/anuvab-001',
