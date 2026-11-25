@@ -6,6 +6,7 @@ import { ProjectsSection } from './components/ProjectsSection';
 import { CloudJourneySection } from './components/CloudJourneySection';
 import { ContactSection } from './components/ContactSection';
 import { Footer } from './components/Footer';
+import { EducationSection } from './components/EducationSection';
 
 export default function App() {
   return (
@@ -22,6 +23,7 @@ export default function App() {
       <main id="main-content">
         <HeroSection />
         <AboutSection />
+        <EducationSection />
         <SkillsSection />
         <ProjectsSection />
         <CloudJourneySection />
